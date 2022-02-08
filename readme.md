@@ -2,8 +2,8 @@
 
 ## About me
 - :male_sign:
-- Nationality : :be:
-- Tongues : :fr: :en:
+- Nationality : Belgium
+- Tongues : french / english
 <br/>
 
 ## Skills
