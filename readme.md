@@ -1,16 +1,3 @@
-<style>
-    .column {
-	  flex: 33.33%;
-	  height: 200px;
-	  padding: 10px;
-	  margin: 5px;
-	  background-color: #cccccc;
-	  text-align: center;
-	}
-	.container {
-	   display: flex;
-	}	
-</style>
 ## About me
 :male_sign:
 <br/>
