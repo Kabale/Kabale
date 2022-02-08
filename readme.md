@@ -1,7 +1,20 @@
-### About me
+## About me
+:male_sign:
 <br/>
 
-### Language and tools
+## Skills
+### Programmation Languages
+- CSharp    :heart::heart::heart::heart::white_heart:
+- Python    :heart::heart::white_heart::white_heart::white_heart:
+- Javascript    :heart::heart::heart::heart::heart:
+- TypeScript    :heart::heart::white_heart::white_heart::white_heart:
+
+### Infrastructure
+- Azure Management  :heart::heart::heart::white_heart::white_heart:
+- Docker    :heart::heart::heart::white_heart::white_heart:
+
+## Certifications
+
 <br/>
 <br/>
 <!-- The stat card below is made with https://github.com/anuraghazra/github-readme-stats -->
