@@ -1,23 +1,36 @@
+<style>
+    .column {
+	  flex: 33.33%;
+	  height: 200px;
+	  padding: 10px;
+	  margin: 5px;
+	  background-color: #cccccc;
+	  text-align: center;
+	}
+	.container {
+	   display: flex;
+	}	
+</style>
 ## About me
 :male_sign:
 <br/>
 
 ## Skills
-<div class="container-fluid" style="display:flex;">
-    <div class="column" style="flex:33,33%; margin:1em;border:1px solid black;">
+<div class="container">
+    <div class="column">
     ### Programmation Languages
     - :heart::heart::heart::heart::white_heart: CSharp    
     - :heart::heart::white_heart::white_heart::white_heart: Python    
     - :heart::heart::heart::heart::heart:   Javascript    
     - :heart::heart::white_heart::white_heart::white_heart: TypeScript    
     </div>
-    <div class="column" style="flex:33,33%; margin:1em;border:1px solid black;">
+    <div class="column">
     ### Framework
     - :heart::heart::heart::white_heart::white_heart:   Node.Js
     - :heart::heart::white_heart::white_heart::white_heart:   Vue.js
     - :heart::heart::heart::heart::white_heart: Bootstrap
     </div>
-    <div class="column" style="flex:33,33%; margin:1em;border:1px solid black;">
+    <div class="column">
     ### Infrastructure
     - :heart::heart::heart::white_heart::white_heart:   Azure Management  
     - :heart::heart::heart::white_heart::white_heart:   Docker    
