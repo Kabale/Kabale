@@ -4,26 +4,23 @@
 <br/>
 
 ## Skills
-<div class="container">
-    <div class="column">
-    ### Programmation Languages
-    - :heart::heart::heart::heart::white_heart: CSharp    
-    - :heart::heart::white_heart::white_heart::white_heart: Python    
-    - :heart::heart::heart::heart::heart:   Javascript    
-    - :heart::heart::white_heart::white_heart::white_heart: TypeScript    
-    </div>
-    <div class="column">
-    ### Framework
-    - :heart::heart::heart::white_heart::white_heart:   Node.Js
-    - :heart::heart::white_heart::white_heart::white_heart:   Vue.js
-    - :heart::heart::heart::heart::white_heart: Bootstrap
-    </div>
-    <div class="column">
-    ### Infrastructure
-    - :heart::heart::heart::white_heart::white_heart:   Azure Management  
-    - :heart::heart::heart::white_heart::white_heart:   Docker    
-    </div>
-</div>
+        
+    > ### Programmation Languages
+    > - :heart::heart::heart::heart::white_heart: CSharp    
+    > - :heart::heart::white_heart::white_heart::white_heart: Python    
+    > - :heart::heart::heart::heart::heart:   Javascript    
+    > - :heart::heart::white_heart::white_heart::white_heart: TypeScript    
+    {.column}
+    > ### Framework
+    > - :heart::heart::heart::white_heart::white_heart:   Node.Js
+    > - :heart::heart::white_heart::white_heart::white_heart:   Vue.js
+    > - :heart::heart::heart::heart::white_heart: Bootstrap
+    {.column}
+    > ### Infrastructure
+    > - :heart::heart::heart::white_heart::white_heart:   Azure Management  
+    > - :heart::heart::heart::white_heart::white_heart:   Docker    
+    {.column}
+{.container}
 ## Certifications
 
 <br/>
