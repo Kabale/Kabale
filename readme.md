@@ -1,7 +1,9 @@
 <link href="Kabale.css" rel="stylesheet">
 
 ## About me
-:male_sign:
+- :male_sign:
+- Nationality : :be:
+- Tongues : :fr: :en:
 <br/>
 
 ## Skills
