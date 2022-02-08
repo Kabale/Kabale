@@ -5,24 +5,22 @@
 
 ## Skills
         
-> ### Programmation Languages
-> - :heart::heart::heart::heart::white_heart: CSharp    
-> - :heart::heart::white_heart::white_heart::white_heart: Python    
-> - :heart::heart::heart::heart::heart:   Javascript    
-> - :heart::heart::white_heart::white_heart::white_heart: TypeScript    
-{.column}
+### Programmation Languages
+- :heart::heart::heart::heart::white_heart: CSharp    
+- :heart::heart::white_heart::white_heart::white_heart: Python    
+- :heart::heart::heart::heart::heart:   Javascript    
+- :heart::heart::white_heart::white_heart::white_heart: TypeScript    
 
-> ### Framework
-> - :heart::heart::heart::white_heart::white_heart:   Node.Js
-> - :heart::heart::white_heart::white_heart::white_heart:   Vue.js
-> - :heart::heart::heart::heart::white_heart: Bootstrap
-{.column}
+### Framework
+- :heart::heart::heart::white_heart::white_heart:   Node.Js
+- :heart::heart::white_heart::white_heart::white_heart:   Vue.js
+- :heart::heart::heart::heart::white_heart: Bootstrap
 
-> ### Infrastructure
-> - :heart::heart::heart::white_heart::white_heart:   Azure Management  
-> - :heart::heart::heart::white_heart::white_heart:   Docker    
-{.column}
-{.container}
+
+### Infrastructure
+- :heart::heart::heart::white_heart::white_heart:   Azure Management  
+- :heart::heart::heart::white_heart::white_heart:   Docker    
+
 ## Certifications
 
 <br/>
