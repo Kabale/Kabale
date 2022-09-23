@@ -13,7 +13,7 @@
 - :heart::heart::white_heart::white_heart::white_heart: TypeScript    
 
 ### Framework
-- :heart::heart::heart::heart::white_heart::white_heart: .NET Framework
+- :heart::heart::heart::white_heart::white_heart: .NET Framework
 - :heart::heart::heart::white_heart::white_heart:   Node.Js
 - :heart::heart::white_heart::white_heart::white_heart:   Vue.js
 - :heart::heart::heart::heart::white_heart: Bootstrap
