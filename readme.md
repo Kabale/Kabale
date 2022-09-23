@@ -2,11 +2,10 @@
 
 ## Kabale
 - Nationality : Belgium
-- Tongues : french / english
-<br/>
+- Language : french / english <br/>
 
 ## Skills
-        
+
 ### Programmation Languages
 - :heart::heart::heart::heart::white_heart: CSharp    
 - :heart::heart::white_heart::white_heart::white_heart: Python    
@@ -24,7 +23,10 @@
 - :heart::heart::heart::white_heart::white_heart:   Docker    
 
 ## Certifications
-
+- Bachelor's degree in Computer Science
+- Microsoft Power Platform (PL-200)
+- Microsoft Dynamics CRM (MB2-716, MB2-710 MB2-704)
+- Windows Server (70-640, 70-642, 70-646)
 <br/>
 <br/>
 <!-- The stat card below is made with https://github.com/anuraghazra/github-readme-stats -->
